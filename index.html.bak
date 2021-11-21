@@ -31,37 +31,9 @@
 <body>
 
 <div class="container">
-  <div class="row"> 
-<!-- TradingView Widget BEGIN -->
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com" rel="noopener" target="_blank"><span class="blue-text">Quotes</span></a> by TradingView</div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-tickers.js" async>
-  {
-  "symbols": [
-    {
-      "description": "BTC/USD",
-      "proName": "BITSTAMP:BTCUSD"
-    },
-    {
-      "description": "CRO/USD",
-      "proName": "COINBASE:CROUSD"
-    },
-    {
-      "description": "SHA/USDT",
-      "proName": "KUCOIN:SHAUSDT"
-    }
-  ],
-  "colorTheme": "dark",
-  "isTransparent": true,
-  "showSymbolLogo": true,
-  "locale": "en"
-}
-  </script>
-</div>
-<!-- TradingView Widget END -->
+ <div class="row">
 
-</div>
+  </div>
 </div>
 
   <!-- Primary Page Layout
